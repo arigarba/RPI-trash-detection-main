@@ -1,1 +1,1 @@
-# RPI-trash-detection-main
+# RPI-detection-sampah
